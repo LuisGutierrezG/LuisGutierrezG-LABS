@@ -6,6 +6,7 @@ Repositorio para el curso "Laboratorio de programación científica para ciencia
 
 I am a Data Scientist with a passion for driving actionable insights from data. I have a strong background in data engineering, predictive analytics, data visualization, and machine learning. I am an experienced analytic problem-solver with a proven track record of developing innovative solutions to complex business challenges in Cencosud.
 <br>
+Agregando texto de prueba.
 <br>
 I am Industrial Engineer from University of Chile and currently i'm cursing the Master in Data Science Degree. I am also highly skilled at data wrangling, cleansing, visualization and modeling. 
 <br>
